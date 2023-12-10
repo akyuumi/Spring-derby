@@ -1,14 +1,10 @@
-package spring.derby;
+package runner.base;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 class MyApplicationRunnerTest {
-
-	@Test
-	void test() {
-		MyApplicationRunner runner = new MyApplicationRunner();
-	}
 
 }
