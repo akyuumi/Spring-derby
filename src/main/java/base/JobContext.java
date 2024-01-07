@@ -1,5 +1,6 @@
-package runner.base;
+package base;
 
+// 共通機能を提供する為のクラス
 public class JobContext {
 	
 	private String logLevel;
